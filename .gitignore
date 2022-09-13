@@ -1,0 +1,4 @@
+gsmenc
+gsmdec
+gsmvoc
+*.o
